@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Ilya Gutman</title>
+    <link>http://www.example.com/tags/authors/</link>
+    <description>Recent content in Authors on Ilya Gutman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 May 2018 06:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tags/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Borsch with Pork Ribs</title>
+      <link>http://www.example.com/docs/borsch/</link>
+      <pubDate>Tue, 01 May 2018 06:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/docs/borsch/</guid>
+      <description>INGREDIENTS    Ingredient Amount     beets 3 heads   carrots 2-3 pieces   cabbage ~ 1&amp;frasl;2 head   crashed tomatoes 1 14 oz jar   onions 2 heads   pickling spice 1&amp;frasl;2 tsp   pork ribs 1&amp;frasl;2 rack   pork hocks 1-2 pieces   borsch spices mix 1 packet   salt 1&amp;frasl;2 tsp   parsley 1 bunch   dill 1 bunch   basil leaves 2-3 pieces   garlic 5-6 cloves   black pepper ~ 10   vietnamese chili 1 tsp   distilled water ~ 2 gallons   (potatoes) 2-3 pieces    INSRUCTIONS  Half a rack of pork ribs clean, cut and start boiling in the cold water, for about 2 hours.</description>
+    </item>
+    
+    <item>
+      <title>Crock-Pot Beef Roast</title>
+      <link>http://www.example.com/docs/authors/</link>
+      <pubDate>Sun, 29 Apr 2018 06:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/docs/authors/</guid>
+      <description>INGREDIENTS    Ingredient Amount Instructions     potato 6 peeled and cut into large chunks   carrots 5 peeled and cut into 2-inch slices   onion 1 quartered   roast 2-3 lbs boneless chuck roast   broth 1&amp;frasl;2 cup beef or chicken broth   chives 1 table spoon chopped   parsley 2 table spoons chopped   pepper 1&amp;frasl;8 tea spoon    soup mix 1 oz package onion soup mix   sause 2 tbs Worcestershire sauce   soup cream 10 oz can cream of mushroom soup    INSRUCTIONS  Put potatoes, carrots and onion at the bottom of crockpot.</description>
+    </item>
+    
+  </channel>
+</rss>

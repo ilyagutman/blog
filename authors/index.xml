@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Ilya Gutman</title>
+    <link>http://www.example.com/authors/</link>
+    <description>Recent content in Authors on Ilya Gutman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://www.example.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Igutman</title>
+      <link>http://www.example.com/authors/igutman/</link>
+      <pubDate>Tue, 01 May 2018 06:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/authors/igutman/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ilya Gutman</title>
+    <link>http://www.example.com/tags/</link>
+    <description>Recent content in Tags on Ilya Gutman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 May 2018 06:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Authors</title>
+      <link>http://www.example.com/tags/authors/</link>
+      <pubDate>Tue, 01 May 2018 06:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/authors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>http://www.example.com/tags/config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opengraph</title>
+      <link>http://www.example.com/tags/og/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/og/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
